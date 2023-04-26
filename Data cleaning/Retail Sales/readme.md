@@ -1,0 +1,12 @@
+This data pertains to the domain of retail and e-commerce. Specifically, it provides information about the transactions of customers purchasing various products from different brands in different locations. The dataset includes variables such as customer ID, brand, product, location, fulfillment, and price, which are commonly used in the retail and e-commerce industry to track sales and customer behavior. This dataset includes 7 variables:
+
+Customer ID - unique identifier for each customer
+Contact - name of the customer
+Brand - the brand of the product purchased by the customer
+Product - the name of the product purchased
+Location - the location where the product was purchased
+Fulfillment (%) - the percentage of the order fulfilled (0%, 30%, 60%, or 100%)
+Price - the price of the product in the format of "dollars,cents"
+The dataset includes 20 observations (rows) with missing values in two rows for the "Contact" and "Brand" variables. The "Fulfillment (%)" variable can be converted to a categorical variable with four levels (0%, 30%, 60%, and 100%). The "Price" variable can be converted to a numeric variable. It is possible to identify the most popular brand, product, location, and fulfillment level, as well as the average price of the products purchased. The dataset can also be used to identify if there are any patterns between variables, such as the relationship between the location and brand of the product.
+
+The dataset provides information about 20 customer transactions, including the customer ID, name, brand and product purchased, location of purchase, percentage of order fulfillment, and price of the product. Based on the dataset, we can see that Nike, New Balance, and Asics are the most popular brands, with each having four transactions. The most popular product is Casual Shoes, with three transactions, followed by Core SS Top, Dunk High Retro, and Japan Shirt, each with two transactions. The majority of the transactions (70%) were fulfilled either partially (30% or 60%) or completely (100%), with 30% of the transactions having no fulfillment. The transactions occurred in four different locations: London, Madrid, Tokyo, and Berlin. London and Berlin had the most transactions, each with six, followed by Madrid with four and Paris with four. The prices of the products purchased range from $54.67 to $207.14. The average price of the products purchased is $139.89.
