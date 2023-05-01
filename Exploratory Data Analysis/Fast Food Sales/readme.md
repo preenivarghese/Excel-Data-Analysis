@@ -10,7 +10,7 @@ Here is an overview of each column:
 * Manager: the manager responsible for the location where the order was made
 * City: the city where the order was made
 
-Transforming and analyzing data
+**Transforming and analyzing data**
 
 After cleaning up data which involves trimming extra spaces, rounding up decimal values, adding country column based on city location, adding revenue column based on price and quantity columns, below are the primary analysis data points :
 1. The dataset contains orders made between November 7, 2022, and December 29, 2022, in four different cities: Paris, London, Madrid, Lisbon, and Berlin. 
@@ -19,17 +19,17 @@ After cleaning up data which involves trimming extra spaces, rounding up decimal
 4. The dataset also shows that most of the orders were made online and paid for using a credit card. 
 5. In terms of managers, Jaoa Silva and Tom Jackson made were responsible for the most orders, with 153 out of 257 orders
 
-Performing statistics on data
+**Performing statistics on data**
 
 Found the Mean, Median, Mode, Standard Deviation, Sample Variance, Kurtosis, Skewness, Range, Minimum, Maximum, Sum, Count for columns Count and Quantity. Performed analysis on outliers for using box/whisker chart.
 
-Performing data analysis
+**Performing data analysis**
 
 We answer various data driven questions and displayed them using pivot charts:
 1. What is best selling product?
 2. What is our total revenue?
 3. What is revenue breakdown by payment method?
 
-Data visualisation
+**Data visualisation**
 
 We can visualize and present data using dynamic drop down lists and use formulas like SUMIFS and XLOOKUP to present data like calculate the total revenue sales  for each product and manager.
