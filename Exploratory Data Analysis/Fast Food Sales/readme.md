@@ -11,6 +11,7 @@ Here is an overview of each column:
 * City: the city where the order was made
 
 Transforming and analyzing data
+
 After cleaning up data which involves trimming extra spaces, rounding up decimal values, adding country column based on city location, adding revenue column based on price and quantity columns, below are the primary analysis data points :
 1. The dataset contains orders made between November 7, 2022, and December 29, 2022, in four different cities: Paris, London, Madrid, Lisbon, and Berlin. 
 2. The majority of orders were made in London, with 76 out of 258 orders. 
