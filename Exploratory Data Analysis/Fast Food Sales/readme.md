@@ -20,13 +20,16 @@ After cleaning up data which involves trimming extra spaces, rounding up decimal
 5. In terms of managers, Jaoa Silva and Tom Jackson made were responsible for the most orders, with 153 out of 257 orders
 
 Performing statistics on data
+
 Found the Mean, Median, Mode, Standard Deviation, Sample Variance, Kurtosis, Skewness, Range, Minimum, Maximum, Sum, Count for columns Count and Quantity. Performed analysis on outliers for using box/whisker chart.
 
 Performing data analysis
+
 We answer various data driven questions and displayed them using pivot charts:
 1. What is best selling product?
 2. What is our total revenue?
 3. What is revenue breakdown by payment method?
 
 Data visualisation
+
 We can visualize and present data using dynamic drop down lists and use formulas like SUMIFS and XLOOKUP to present data like calculate the total revenue sales  for each product and manager.
